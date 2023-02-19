@@ -1,2 +1,2 @@
 packages:
-  - local: /Users/haresh/code/dbt/proj2
+  - git: https://github.com/hareshkh/dbt-2
