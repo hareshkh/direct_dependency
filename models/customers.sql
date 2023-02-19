@@ -2,7 +2,7 @@ WITH customers AS (
 
   SELECT * 
   
-  FROM {{ ref('raw_customers')}}
+  FROM {{ ref('raw_customers2')}}
 
 ),
 
