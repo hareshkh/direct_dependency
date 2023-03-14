@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: "src"
+    database: "database"
+    schema: "schema"
+    tables:
+      - name: "tab"
+        identifier: "table"
+        columns:
+          - name: "cents"
+            type: "INT64"

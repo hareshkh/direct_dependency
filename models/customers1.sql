@@ -6,6 +6,14 @@ WITH customers AS (
 
 ),
 
+reformat as (
+
+  SELECT *
+
+  FROM customers
+
+)
+
 SELECT * 
 
-FROM customers
+FROM reformat
