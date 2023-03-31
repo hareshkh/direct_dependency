@@ -4,16 +4,8 @@ WITH customers AS (
   
   FROM {{ ref('raw_customers2')}}
 
-),
-
-reformat as (
-
-  SELECT *
-
-  FROM customers
-
 )
 
 SELECT * 
 
-FROM reformat
+FROM customers
