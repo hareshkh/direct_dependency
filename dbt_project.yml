@@ -1,4 +1,4 @@
-name: 'proj1'
+name: 'direct_dependency'
 
 config-version: 2
 version: '0.1'

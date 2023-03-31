@@ -1,2 +1,2 @@
 packages:
-  - git: https://github.com/hareshkh/dbt-2
+  - git: https://github.com/hareshkh/direct_dependency.git
