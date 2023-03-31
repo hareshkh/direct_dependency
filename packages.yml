@@ -1,2 +1,2 @@
 packages:
-  - git: https://github.com/hareshkh/direct_dependency.git
+  - git: https://github.com/hareshkh/transitive_dependency.git
